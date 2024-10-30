@@ -6,7 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachhii31&label=Profile%20views&color=0e75b6&style=flat" alt="prachhii31" /> </p>
 
+- 👩‍💻I'm currently learning Full stack development, Cloud computing and DSA.
+- 💬Feel free to ask any queries.
 - 📫 How to reach me **prachisinghjbp@gmail.com**
+- ⚡Would love to explore new things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +35,4 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
+

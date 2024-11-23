@@ -34,3 +34,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
+## Hactoberfest(24) Badges
+[![An image of @aboutprachi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aboutprachi)](https://holopin.io/@aboutprachi)

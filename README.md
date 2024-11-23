@@ -2,7 +2,7 @@
 <h1 align="center">Hi,👋 I'm Prachi Singh</h1>
 <h3 align="center">Passionate about building intelligent systems and driving insights from data</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachhii31&label=Profile%20views&color=0e75b6&style=flat" alt="prachhii31" /> </p>
 

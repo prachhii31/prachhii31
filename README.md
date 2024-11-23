@@ -36,6 +36,12 @@
 <a href="https://github.com/prachhii31"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prachhii31&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350"  alt="Prachi Singh"/></a>
 </p>
 
+<tr>
+    <td align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachhii31&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="Prachi Singh" />
+    </td>
+   </tr>
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />

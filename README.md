@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi,👋 I'm Prachi Singh</h1>
-<h3 align="center">Passionate about building intelligent systems and driving insights from data</h3>
+<h3 align="center">Impact Kid | Explorer | Learner</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif">
 
